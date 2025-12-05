@@ -71,5 +71,5 @@ Todos os voluntários devem atuar com respeito, ética e responsabilidade.
 * **Alexandre Mendes das Virgens Almeida**
 * **Leonardo Renato Bastos dos Santos**
 * **Lucas Americano do Brasil Santos**
-* **Lucas Frigato**
+* **Lucas Frigatto**
 * **Rafael Thiago Felix dos Santos**
