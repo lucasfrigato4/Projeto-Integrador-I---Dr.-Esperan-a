@@ -66,3 +66,10 @@ Todos os voluntários devem atuar com respeito, ética e responsabilidade.
 * **Treinamento:** A participação nos treinamentos iniciais e nas reciclagens periódicas é **obrigatória** para garantir a atualização constante sobre as práticas e diretrizes do projeto.  
 * **Inatividade:** O voluntário que deixar de participar por um período superior a seis meses sem justificativa formal será considerado inativo e deverá participar obrigatoriamente de um treinamento de reciclagem para retornar à ativa.
 
+## **Equipe**
+
+* **Alexandre Mendes das Virgens Almeida**
+* **Leonardo Renato Bastos dos Santos**
+* **Lucas Americano do Brasil Santos**
+* **Lucas Frigato**
+* **Rafael Thiago Felix dos Santos**
